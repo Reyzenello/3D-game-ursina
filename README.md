@@ -1,7 +1,6 @@
 # 3D-game-ursina
 
 
-
 This code creates a simple 3D platformer game using the Ursina Engine. 
 
 **1. Importing Libraries:**
